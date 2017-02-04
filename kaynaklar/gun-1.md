@@ -27,3 +27,4 @@
 * [Regresyon](https://en.wikipedia.org/wiki/Linear_regression)
 * [Sınıflandırma](https://en.wikipedia.org/wiki/Statistical_classification)
 * [Kümeleme](https://en.wikipedia.org/wiki/Cluster_analysis)
+* [Açık Kurs (Andrew Ng - Coursera)](https://tr.coursera.org/learn/machine-learning)
